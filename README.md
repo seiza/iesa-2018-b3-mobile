@@ -4,13 +4,13 @@ Tout est dans le nom du repo ;)
 
 ## Règles à respecter
 
-- Nom et prénom dans le `/README.m`
+- Nom et prénom dans le `/README.md`
 - Ignorer les fichiers `.DS_Store` et `*.tmp` (dans le `/.gitignore`)
 - Supprimer les fichiers `.DS_Store` et `*.tmp` de l'arborescence des sources
 
 ## Liste des repositories
 
-:tomato: = au moins une des règles n'est pas respectée
+:tomato: = au moins une des règles n'est pas respectée (= 37% !!)
 
 1. :tomato: [Mohamed Belabes](https://github.com/edmjesus/iesa-2018-b3-mobile)
 1. :tomato: [Remki Adel](https://github.com/Adel-Remki/seiza-iesa-2018-b3-mobile)
