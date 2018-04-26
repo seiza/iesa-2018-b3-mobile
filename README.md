@@ -36,3 +36,19 @@ Tout est dans le nom du repo ;)
 1. [ELODIE CHONION](https://github.com/Elodie-Chonion/iesa-2018-b3-mobile)
 1. [Kevin Fernandes](https://github.com/kevinPfernandes/iesa-2018-b3-mobile)
 1. :tomato: [Corentin ANJUERE](https://github.com/CorentinAnjuere/iesa-2018-b3-mobile)
+
+## Contenu
+
+### J1
+
+- Agilité
+
+### J2
+
+- 3 questions ARES sous forme de stories
+
+### J3
+
+- Règles Git ci-dessus
+- Empathy map sur Roger ou Corinne
+- Fiche Personae sur Roger ou Corinne
